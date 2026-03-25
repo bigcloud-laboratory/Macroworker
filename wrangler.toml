@@ -1,0 +1,4 @@
+name = "macro"
+main = "worker.js"
+compatibility_date = "2026-03-25"
+compatibility_flags = ["nodejs_compat"]
